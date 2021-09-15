@@ -1,0 +1,53 @@
+@charset "ISO-8859-1";
+      .contenedor-arbol, .contenedor-arbol ul, .contenedor-arbol li {
+          position: relative;
+      }
+
+      .contenedor-arbol ul {
+          list-style: none;
+      }
+
+      .contenedor-arbol li::before, .contenedor-arbol li::after {
+          content: "";
+          position: absolute;
+          left: -12px;
+      }
+
+      .contenedor-arbol li::before {
+          border-top: 2px solid green;
+          top: 9px;
+          width: 8px;
+          height: 0;
+      }
+
+      .contenedor-arbol li::after {
+          border-left: 2px solid rgb(64, 0, 64);
+          height: 100%;
+          width: 0px;
+          top: 2px;
+      }
+
+      .contenedor-arbol ul > li:last-child::after {
+          height: 8px;
+      }
+      .contenedor-arbol button {
+          position: relative;
+          height: 8px;
+           width: 8px;
+      }
+     body{
+          	color: #4dfff7;
+     	  	font-family:"Segoe UI Black";
+     	  	font-size: medium;
+     	  	-webkit-text-stroke: 0.7px black;
+     		padding-right: 10em;
+     		width: 80%;
+     		height: 100x;
+     		background-image: 
+     		url("https://images3.alphacoders.com/106/1069102.jpg");
+ 			background-repeat: no-repeat;
+     		background-attachment : fixed;
+     }
+    h1 {
+    	-webkit-text-stroke: 1px #83c31f;
+	}

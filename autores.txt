@@ -1,0 +1,10 @@
+INTEGRANTES DEL GRUPO
+	Eduardo José Barrameda Portieles, 02322832Q
+	Ricardo González González, 05441438Y
+	David López Pereira, 02562739X
+
+REPARTO DE TAREAS
+	Todos los miembros del equipo han cumplido su parte del trabajo, 
+	cada uno ha realizado uno o varios métodos del controlador, y una o varias partes del código Javascript y el DOM. 
+	Cabe destacar que el código Javascript ha sido realizado en su gran mayoría por Eduardo y David. 
+	La base de datos se ha completado de forma conjunta por parte de los tres integrantes.
