@@ -1,7 +1,7 @@
 INTEGRANTES DEL GRUPO
-	Eduardo José Barrameda Portieles, 02322832Q
-	Ricardo González González, 05441438Y
-	David López Pereira, 02562739X
+	Eduardo José Barrameda Portieles 
+	Ricardo González González
+	David López Pereira
 
 REPARTO DE TAREAS
 	Todos los miembros del equipo han cumplido su parte del trabajo, 
